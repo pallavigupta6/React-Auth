@@ -1,0 +1,28 @@
+.container-header {
+    font-size: 30px;
+    text-align: center;
+    padding: 0px 6rem;
+ 
+}
+.formstyle{
+    padding: 1rem 6rem 1rem 1rem;
+    margin: 9px 32px;
+    font-size: 22px;
+}
+.submitBtn{
+    padding: 12px;
+    align-items: center;
+    display: flex;
+    width: 50%;
+    text-align: center !important;
+    font-size: 18px;
+    padding-left: 68px;
+    margin-left: 33px;
+
+}
+.accountlink{
+    padding: 27px;
+    text-align: center;
+    margin-top: 12px;
+    font-size: 13px;
+}
